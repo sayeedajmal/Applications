@@ -1,10 +1,10 @@
-# PERSONALCHAT CHATING FOR ANDROID
+# ConnectX CHATING FOR ANDROID
 
-<b>PersonalChat for Android is a realtime chating app writtern in java using Firebase.
+<b>ConnectX for Android is a realtime chating app writtern in java using Firebase.
 
 <img src="icon.png" width="100px">
 
-PersonalChat allows to send and receive text messages, photos.</b>
+ConnectX allows to send and receive text messages, photos.</b>
 
 # SCREENSHOTS
 
@@ -19,14 +19,13 @@ PersonalChat allows to send and receive text messages, photos.</b>
 Some features are binded.
 
     1. Simple UI Interface.
-    2. Calling Feature (Developing Mode).
-    3. Realtime Chating Function.
+    2. Realtime Chating Function.
+    3. Calling Feature (Developing Mode).
     4. Status (Active).
     5. No Last Seen.
     6. DarkMode and LightMode Available(Match to your Phone Mode).
     7. Chat Request (Developing Mode).
-    8. No Message Seen.
-    9. Message Notification without UserName (Developing Mode).
+    9. Message Notification.
     10. Video Calling Feature (Developing Mode).
 
 # API USED
@@ -35,3 +34,5 @@ Some features are binded.
         2. Glide (Image Fetch)
         3. CircleImageView (Round Image)
         4. Neumorphism (Noumorphism View)
+        5. Volley (Notification)
+        6. FCM (Firebase Console Messaging)
